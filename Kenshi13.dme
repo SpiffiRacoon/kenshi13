@@ -19,5 +19,6 @@
 #include "code\obj.dm"
 #include "code\turf.dm"
 #include "code\world.dm"
+#include "map\desert_test.dmm"
 // END_INCLUDE
 

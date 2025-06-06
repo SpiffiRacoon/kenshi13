@@ -1,14 +1,14 @@
 // BEGIN_INTERNALS
 /*
-MAP_PLANE_MASTERS: (null)
+MAP_PLANE_MASTERS: 
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1749250454
-DIR: code icons 
+LAST_COMPILE_TIME: 1749252937
+DIR: code icons map 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 516.1663
-WINDOW: code\turf.dm;icons\ground.dmi
-FILE: icons\ground.dmi
+WINDOW: code\turf.dm;icons\ground.dmi;icons\Player.dmi
+FILE: icons\Player.dmi
 MAP_INSTANCE_MODE: copy
 */
 // END_INTERNALS
