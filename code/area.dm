@@ -1,3 +1,3 @@
 area
-    empty_desert
-    poop_area
+	empty_desert
+	poop_area
