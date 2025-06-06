@@ -14,5 +14,10 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "code\area.dm"
+#include "code\mob.dm"
+#include "code\obj.dm"
+#include "code\turf.dm"
+#include "code\world.dm"
 // END_INCLUDE
 
